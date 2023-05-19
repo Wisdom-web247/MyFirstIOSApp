@@ -59,6 +59,7 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="SecondVc"/>
                                 <connections>
+                                    <action selector="btnPressed:" destination="YOG-Uz-qSz" eventType="touchUpInside" id="hdI-Kq-Scd"/>
                                     <segue destination="m3F-rO-ZLU" kind="show" id="okF-ot-Gu0"/>
                                 </connections>
                             </button>
